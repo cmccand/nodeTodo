@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chris McCandlish",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.0",
+    "mongoose": "^4.8.6"
+  }
 }
